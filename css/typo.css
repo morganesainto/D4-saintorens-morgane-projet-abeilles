@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:ital,wght@0,300;0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Ultra&display=swap');
+
+html {
+  font-size: 100%;
+}
+
+/*16px*/
+body {
+  background-color: black;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 1.75;
+  color: black;
+}
+
+p {
+  color: #232946;
+  margin-bottom: 1.15rem;
+  text-align: justify;
+  justify-content: center;
+  margin: 2em;
+  margin-bottom: 4em;
+  background-color: #fffffe;
+  border-radius: 10px;
+  background-size: 2em;
+  display: inline;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 2.75rem 0 1.05rem;
+  font-family: "Abril Fatface";
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-top: 2rem;
+  margin-left: 2.5rem;
+  font-size: 5em;
+  display: flex;
+  justify-content: space-around;
+  color: #232946;
+}
+
+p1 {
+font-size: 1em;
+font-family: 'Abril Fatface';
+color: white;
+text-align: justify;
+margin-top: -1.5em;
+margin-left: 2em;
+margin-right: 2em;
+margin-bottom: 1em;
+}
+
+h6 {
+  position: sticky;
+  margin-top: 2rem;
+  font-size: 6em;
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Anton', sans-serif;
+  color: #232946;
+}
+
+nav a {
+  font-size: 1em;
+}
+
+h2 {
+  font-size: 3.998em;
+}
+
+h3 {
+  font-size: 2.827em;
+}
+
+h4 {
+  font-size: 1.999em;
+}
+
+h5 {
+  font-size: 1.414em;
+}
+
+small, .text_small {
+  font-size: 0.707em;
+}
+
+.animated-box {
+  text-align: justify;
+}
